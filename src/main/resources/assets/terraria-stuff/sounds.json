@@ -1,0 +1,14 @@
+{
+  "ice_mirror_use": {
+    "subtitle": "sounds.terraria-stuff.ice_mirror_use",
+    "sounds": [
+      "terraria-stuff:ice_mirror_use"
+    ]
+  },
+  "wand_of_sparking_use": {
+    "subtitle": "sounds.terraria-stuff.wand_of_sparking_use",
+    "sounds": [
+      "terraria-stuff:wand_of_sparking_use"
+    ]
+  }
+}
